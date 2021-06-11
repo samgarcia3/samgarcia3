@@ -1,9 +1,6 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**samgarcia3/samgarcia3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Status:
 
 - 🔭 I’m currently working on KineMa & SineMa. It is a reimagining of Film Recommender Systems.
 - 🌱 I’m currently learning Computer Vision, Memory Based Filtering, Matrix Factorization Methods and Latent Features, and Funk Singular Value Decomposition (FunkSVD)!
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me at [email](https://www.linkedin.com/in/samuelgarcia3/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My cat was in a commercial with Samuel L. Jackson!
--->
