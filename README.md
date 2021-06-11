@@ -1,6 +1,6 @@
 ## Hello and WELCOME!
 
-### Status:
+### About me:
 
 - 💻 I’m currently working on KineMa & SineMa. It is a reimagining of Film Recommender Systems.
 - 🔍 I’m currently learning Computer Vision, Memory Based Filtering, Matrix Factorization Methods and Latent Features, and Funk Singular Value Decomposition (FunkSVD)!
