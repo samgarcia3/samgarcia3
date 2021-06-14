@@ -13,7 +13,7 @@
 Check out what I'm currently working on!
 
 <div id="container" style="position:relative;">
-<div style="float:left"><h1> Kinema </h1></div>
+<div style="float:left"><h1> Check out what I'm currently working on!</h1></div>
 <div style="position:relative; float:right"><img style="height:100px" src ="images/Kinema-logo.png" />
 </div>
 </div>
