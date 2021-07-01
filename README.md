@@ -13,7 +13,7 @@
 
 <div id="container" style="position:relative;">
 <div style="float:left"><h1> Check out what I'm currently working on!</h1></div>
-<div style="float:left"><h1> A Truth Engine System (TES) that employs Natural Language Processing (NLP) to assist individuals in determing wether an article, tweeet, and post is fact or fiction!</h1></div>
+<div style="float:left"><h1> A Truth Engine System (TES) that employs Natural Language Processing (NLP) to assist individuals in determing wether an article, tweeet, and or post is fact or fiction.</h1></div>
 <div style="position:relative; float:right"><img style="height:100px" src ="images/covid_cover.png" />
 </div>
 </div>
