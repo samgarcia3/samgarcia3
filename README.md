@@ -18,9 +18,3 @@
 </div>
 </div>
 
-
-<div id="container" style="position:relative;">
-<div style="float:left"><h1> A film recommendation system that utilizes below-the-line talent to create a more curated movie-going experience! </h1></div>
-<div style="position:relative; float:right"><img style="height:100px" src ="images/Kinema-logo.png" />
-</div>
-</div>
